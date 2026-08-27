@@ -1,0 +1,14 @@
+[
+   {
+      "name": "Emergency",
+      "phoneNo": 108,
+      "email": "",
+      "address": ""
+   },
+   {
+      "name": "Boss",
+      "phoneNo": 420,
+      "email": "boss@boss.com",
+      "address": "Boss Town"
+   }
+]
